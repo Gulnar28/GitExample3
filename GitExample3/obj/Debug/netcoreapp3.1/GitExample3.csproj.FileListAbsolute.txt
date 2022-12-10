@@ -1,0 +1,14 @@
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\bin\Debug\netcoreapp3.1\GitExample3.exe
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\bin\Debug\netcoreapp3.1\GitExample3.deps.json
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\bin\Debug\netcoreapp3.1\GitExample3.runtimeconfig.json
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\bin\Debug\netcoreapp3.1\GitExample3.runtimeconfig.dev.json
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\bin\Debug\netcoreapp3.1\GitExample3.dll
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\bin\Debug\netcoreapp3.1\GitExample3.pdb
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\obj\Debug\netcoreapp3.1\GitExample3.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\obj\Debug\netcoreapp3.1\GitExample3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\obj\Debug\netcoreapp3.1\GitExample3.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\obj\Debug\netcoreapp3.1\GitExample3.AssemblyInfo.cs
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\obj\Debug\netcoreapp3.1\GitExample3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\obj\Debug\netcoreapp3.1\GitExample3.dll
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\obj\Debug\netcoreapp3.1\GitExample3.pdb
+C:\Users\ACER\Desktop\GitExample3\GitExample3\GitExample3\obj\Debug\netcoreapp3.1\GitExample3.genruntimeconfig.cache
